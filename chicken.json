@@ -1,0 +1,11 @@
+[
+    {"name": "Fried","description": "Fried chiken is very deleciuos and very light on stomac"},
+    {"name": "boiled","description": "Boiled chiken is very healthy however it is not that tatsty."},
+    {"name": "Grilled","description":"On top of a coal fire that is very hot thiskind is cooked and added to it a hot spices"},
+    {"name": "Alfredo","description": "This is the easiest, creamiest chicken alfredo you will ever make."},
+    {"name": "Lemon Pepper Chicken","description": "This lemon pepper chicken makes chicken exciting again."},
+    {"name": "Roast","description": "You need this classic recipe in your arsenal."},
+    {"name": "Biryani","description":"Chicken biryani is such an easy anddelicious dinner. Served over fluffy white rice, its hard to resist."},
+    {"name": "Tamale Pie","description": "A layer of cornbread topped with cheesy shredded chicken."}
+
+]
